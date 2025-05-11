@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sias91519
-- 👀 I’m interested in learing to code
-- 🌱 I’m currently learning frond end web development
+- 👀 I’m interested in ethical hacking
+- 🌱 I’m currently learning ethical hacking
 - 📫 How to reach me j45212280@gmail.com
 
 <!---
